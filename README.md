@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed Abo khoshiem
 - 👀 I’m interested in Data and analytics.
-- 🌱 I’m currently learning how to become super data analyst.
+- 🌱 I always learn and will still learning till my last breath.
 - 📫 How to reach me? 
 - you can visit my linkedin page <https://www.linkedin.com/in/mohamed-abokhoshiem-299845165>
 - or visit my public tableau cloud acoount <https://public.tableau.com/app/profile/mohamed.abdelkarim.abdelaziz.alsafy.awad>
